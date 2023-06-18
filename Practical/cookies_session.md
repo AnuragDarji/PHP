@@ -10,7 +10,7 @@
     echo "$username";
 ?>
 ```
-![App Screenshot]()
+![App Screenshot](https://github.com/AnuragDarji/PHP/assets/127482974/d26690da-5009-4620-a24f-24bf75424d52)
 
 ## *Session:-*
 
@@ -25,4 +25,4 @@
     $username = $_SESSION['username'];
     echo "$username";
 ```
-![App Screenshot]()
+![App Screenshot](https://github.com/AnuragDarji/PHP/assets/127482974/d34b9425-2a22-4f36-873f-d2480762dcf5)
